@@ -12,8 +12,8 @@ Hydra 是用于密码破解和暴力测试的强大开源工具。此技能树�
 
 |   序号 | 名称                                                                                    | 难度   | Repo                                                                     | 练习                                                                       |
 |--------|-----------------------------------------------------------------------------------------|--------|--------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|      1 | [Hydra 初学者指南](https://labex.io/zh/courses/hydra-for-beginners)                     | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 开始实验](https://labex.io/zh/courses/hydra-for-beginners)             |
-|      2 | [Hydra 网络安全攻击实验室](https://labex.io/zh/courses/hydra-cybersecurity-attack-labs) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 开始实验](https://labex.io/zh/courses/hydra-cybersecurity-attack-labs) |
+|      1 | [Hydra 初学者指南](https://labex.io/zh/courses/hydra-for-beginners)                     | 初级   | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 开始实验](https://labex.io/zh/courses/hydra-for-beginners)             |
+|      2 | [Hydra 网络安全攻击实验室](https://labex.io/zh/courses/hydra-cybersecurity-attack-labs) | 初级   | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 开始实验](https://labex.io/zh/courses/hydra-cybersecurity-attack-labs) |
 
 ## 更多
 
