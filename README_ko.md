@@ -12,8 +12,8 @@ Hydra 는 비밀번호 크래킹 및 무차별 대입 테스트를 위한 강력
 
 |   인덱스 | 이름                                                                                     | 난이도   | Repo                                                                     | 연습                                                                        |
 |----------|------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|        1 | [Hydra 초보자를 위한 안내](https://labex.io/ko/courses/hydra-for-beginners)              | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 실습 시작](https://labex.io/ko/courses/hydra-for-beginners)             |
-|        2 | [Hydra 사이버 보안 공격 랩](https://labex.io/ko/courses/hydra-cybersecurity-attack-labs) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 실습 시작](https://labex.io/ko/courses/hydra-cybersecurity-attack-labs) |
+|        1 | [Hydra 초보자를 위한 안내](https://labex.io/ko/courses/hydra-for-beginners)              | 초급     | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 실습 시작](https://labex.io/ko/courses/hydra-for-beginners)             |
+|        2 | [Hydra 사이버 보안 공격 랩](https://labex.io/ko/courses/hydra-cybersecurity-attack-labs) | 초급     | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 실습 시작](https://labex.io/ko/courses/hydra-cybersecurity-attack-labs) |
 
 ## 더 보기
 
