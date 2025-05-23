@@ -12,8 +12,8 @@ Hydra はパスワードクラッキングとブルートフォーステスト�
 
 |   インデックス | 名前                                                                                              | 難易度   | Repo                                                                     | 練習                                                                         |
 |----------------|---------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------|------------------------------------------------------------------------------|
-|              1 | [初心者のための Hydra](https://labex.io/ja/courses/hydra-for-beginners)                           | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 ラボを開始](https://labex.io/ja/courses/hydra-for-beginners)             |
-|              2 | [Hydra サイバーセキュリティ攻撃ラボ](https://labex.io/ja/courses/hydra-cybersecurity-attack-labs) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 ラボを開始](https://labex.io/ja/courses/hydra-cybersecurity-attack-labs) |
+|              1 | [初心者のための Hydra](https://labex.io/ja/courses/hydra-for-beginners)                           | 初級     | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 ラボを開始](https://labex.io/ja/courses/hydra-for-beginners)             |
+|              2 | [Hydra サイバーセキュリティ攻撃ラボ](https://labex.io/ja/courses/hydra-cybersecurity-attack-labs) | 初級     | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 ラボを開始](https://labex.io/ja/courses/hydra-cybersecurity-attack-labs) |
 
 ## その他
 
