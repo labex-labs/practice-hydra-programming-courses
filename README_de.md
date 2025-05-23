@@ -12,8 +12,8 @@ Hydra ist ein leistungsstarkes Open-Source-Tool zum Passwortknacken und Brute-Fo
 
 |   Index | Name                                                                                                | Schwierigkeit   | Repo                                                                     | Übung                                                                           |
 |---------|-----------------------------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|       1 | [Hydra für Anfänger](https://labex.io/de/courses/hydra-for-beginners)                               | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 Labor Starten](https://labex.io/de/courses/hydra-for-beginners)             |
-|       2 | [Hydra Cybersicherheits-Angriffs-Labs](https://labex.io/de/courses/hydra-cybersecurity-attack-labs) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 Labor Starten](https://labex.io/de/courses/hydra-cybersecurity-attack-labs) |
+|       1 | [Hydra für Anfänger](https://labex.io/de/courses/hydra-for-beginners)                               | Anfänger        | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 Labor Starten](https://labex.io/de/courses/hydra-for-beginners)             |
+|       2 | [Hydra Cybersicherheits-Angriffs-Labs](https://labex.io/de/courses/hydra-cybersecurity-attack-labs) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 Labor Starten](https://labex.io/de/courses/hydra-cybersecurity-attack-labs) |
 
 ## Mehr
 
