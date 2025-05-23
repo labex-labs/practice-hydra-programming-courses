@@ -12,8 +12,8 @@ Hydra — это мощный инструмент с открытым исхо�
 
 |   Индекс | Название                                                                                              | Сложность   | Repo                                                                     | Практика                                                                             |
 |----------|-------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-|        1 | [Hydra для начинающих](https://labex.io/ru/courses/hydra-for-beginners)                               | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 Начать Лабораторию](https://labex.io/ru/courses/hydra-for-beginners)             |
-|        2 | [Лаборатории по кибербезопасности Hydra](https://labex.io/ru/courses/hydra-cybersecurity-attack-labs) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/hydra-cybersecurity-attack-labs) |
+|        1 | [Hydra для начинающих](https://labex.io/ru/courses/hydra-for-beginners)                               | Начинающий  | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 Начать Лабораторию](https://labex.io/ru/courses/hydra-for-beginners)             |
+|        2 | [Лаборатории по кибербезопасности Hydra](https://labex.io/ru/courses/hydra-cybersecurity-attack-labs) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/hydra-cybersecurity-attack-labs) |
 
 ## Больше
 
